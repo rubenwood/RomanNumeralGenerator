@@ -1,0 +1,7 @@
+C:\Users\Ruben\source\repos\RomanNumeralGenerator\RomanNumeralGenerator\obj\Debug\RomanNumeralGenerator.csprojAssemblyReference.cache
+C:\Users\Ruben\source\repos\RomanNumeralGenerator\RomanNumeralGenerator\obj\Debug\RomanNumeralGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\RomanNumeralGenerator\RomanNumeralGenerator\bin\Debug\RomanNumeralGenerator.exe.config
+C:\Users\Ruben\source\repos\RomanNumeralGenerator\RomanNumeralGenerator\bin\Debug\RomanNumeralGenerator.exe
+C:\Users\Ruben\source\repos\RomanNumeralGenerator\RomanNumeralGenerator\bin\Debug\RomanNumeralGenerator.pdb
+C:\Users\Ruben\source\repos\RomanNumeralGenerator\RomanNumeralGenerator\obj\Debug\RomanNumeralGenerator.exe
+C:\Users\Ruben\source\repos\RomanNumeralGenerator\RomanNumeralGenerator\obj\Debug\RomanNumeralGenerator.pdb
